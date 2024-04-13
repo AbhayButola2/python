@@ -1,4 +1,4 @@
-ist=['abhay', 'butola']
+list=['abhay', 'butola']
 list2=[500124835]
 list3=list+list2
 print(list3)
